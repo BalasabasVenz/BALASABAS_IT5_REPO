@@ -9,5 +9,5 @@ function whatShallIWear(temp) {
 }
 
 whatShallIWear(50)
-whatShallIWear(109)
+whatShallIWear(100)
 whatShallIWear(60)
